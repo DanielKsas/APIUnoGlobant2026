@@ -3,7 +3,7 @@ package com.example.clinica.modelos;
 import jakarta.persistence.*;
 
 import java.time.LocalDate;
-import java.util.PrimitiveIterator;
+
 @Entity
 @Table (name = "HistoriaClinica")
 public class HistoriaClinica {
